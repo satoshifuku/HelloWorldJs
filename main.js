@@ -3,6 +3,11 @@ console.log("Hello World!");
 function helloWorld(){
     document.writeln('Hello World!');
 }
+function showTime(){
+    var now = new Date();
+    document.getElementById("time").innerHTML = now.toLocaleTimeString();
+    // setInterval('time()',1000);    
+}
 
 function showDayMonYear(str){
     var dateObj = new Date();
@@ -13,5 +18,5 @@ function showDayMonYear(str){
     var year = dateObj.getUTCFullYear();
     
     date = months[month] + " " + day + ", "+ year;
-    document.getElementById("time").innerHTML = date
+    document.getElementById("date").innerHTML = date
 } 
