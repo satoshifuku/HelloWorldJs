@@ -7,12 +7,19 @@
     </head>
     <body>
         <pre>
+            <h1 id="date"></h1>
+            <script>
+                showDayMonYear("date");
+                setInterval('showDayMonYear()',1000);
+            </script>
+
             <h1 id="time"></h1>
             <script>
                 showTime("time")
-                showDayMonYear("time");
-                setInterval('showDayMonYear()',1000);
+                setInterval('showTime()',1000);
             </script>
+
+
         </pre>
     </body>
 </html>

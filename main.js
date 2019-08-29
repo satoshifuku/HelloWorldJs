@@ -18,5 +18,5 @@ function showDayMonYear(str){
     var year = dateObj.getUTCFullYear();
     
     date = months[month] + " " + day + ", "+ year;
-    document.getElementById("time").innerHTML = date
+    document.getElementById("date").innerHTML = date
 } 
