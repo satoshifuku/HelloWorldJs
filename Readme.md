@@ -70,7 +70,7 @@ Check the new branch is created.
 
 Change a code to add a new function which you want.
 
-## Step 7: Push 
+## Step 7: Push a branch
 
 When you want save your changes to the repository, you need to use "commit" command.
 A commit has a commit message which explain why the change was made. 
