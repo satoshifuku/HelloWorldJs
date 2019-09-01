@@ -93,3 +93,11 @@ Push your branch to origin (remote repository) on Github.
 Pull request is important for collaboration on GitHub.
 When you open a pull request, you can propose or request someone review your changes.
 When you and pull in your contribution and merge them into their branch.
+
+Open a new pull request.
+![pull01](https://user-images.githubusercontent.com/8034356/64072119-6fa12980-ccc4-11e9-9221-2e0adebceec9.png)
+
+Select your branch.
+![pull02](https://user-images.githubusercontent.com/8034356/64072192-a297ed00-ccc5-11e9-9eab-aeea42c9068f.png)
+
+To complete your pull request, you should give a title and a brief description associated with your changes.
