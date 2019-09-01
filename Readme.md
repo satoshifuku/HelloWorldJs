@@ -101,3 +101,6 @@ Select your branch.
 ![pull02](https://user-images.githubusercontent.com/8034356/64072192-a297ed00-ccc5-11e9-9eab-aeea42c9068f.png)
 
 To complete your pull request, you should give a title and a brief description associated with your changes.
+
+
+## Special thanks
