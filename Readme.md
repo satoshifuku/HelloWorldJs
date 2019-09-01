@@ -19,7 +19,7 @@ Check Git installed.
 
 > $ git --version
 
-If you don’t have it installed, run the following command.
+If you don’t have it installed, access to the following cite.
 
 #### Mac
 https://git-scm.com/download/mac
