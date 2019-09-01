@@ -1,3 +1,38 @@
+# HelloWorldJs
+
+## Overview
+The project is created for a workshop of Human interface symposium 2019 on 2 September 2019.
+The HelloWorldJs repository is a simple project that gets you experience Git with GitHub.
+
+
+### You’ll experience how to:
+
+- Clone and use a repository  
+- Start and manage a branch  
+- Make changes to a file and push them to GitHub as commits  
+
+## Step 1: Install Git
+
+### check git
+
+Check Git installed.
+
+> $ git --version
+
+If you don’t have it installed, access to the following cite.
+
+#### Mac
+https://git-scm.com/download/mac
+
+#### Windows
+https://git-scm.com/download/win
+
+
+There are detail of instructions for installing at https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+
+## Step 2: Creat GitHub accaount 
+
 To complete the workshop, you need an account of GitHub.com.   
 Visit the following URL:  
 https://github.com/
