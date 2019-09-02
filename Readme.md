@@ -103,4 +103,5 @@ Select your branch.
 To complete your pull request, you should give a title and a brief description associated with your changes.
 
 
+> git checkout -b feature_day origin/feature_day
 ## Special thanks
